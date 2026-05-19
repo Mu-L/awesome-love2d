@@ -99,6 +99,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [loveprofiler](https://github.com/dknight/loveprofiler) - An extremely simple logger and profiler.
 * [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game.
 * [vudu](https://github.com/deltadaedalus/vudu) - Broad in-game debugging gui with a console, variable browser/editor, speed controls, and more.
+* [feather](https://github.com/Kyonru/feather) - Extensible Development Toolkit for LÖVE. Step by step debugger, hot reloading, remote log inspection, easy android and ios development builds, assisted release and upload, shader graph, particle system playground, and more!
 
 ## Drawing
 *Drawing specific Libraries, that simplify the Drawing process*
