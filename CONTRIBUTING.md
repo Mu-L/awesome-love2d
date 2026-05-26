@@ -59,4 +59,7 @@ Please ensure your pull request adheres to the following:
 * [Entry](#link) - Description
 ```
 
+> [!NOTE] 
+> Pull requests, bug reports, and other contributions made with LLM / generative AI technology will not be accepted.
+
 Thanks!
